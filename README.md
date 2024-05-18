@@ -1,2 +1,2 @@
 # Hydroxide
-my old, forgotten trojan by me
+C GDI trojan by red-wipet
